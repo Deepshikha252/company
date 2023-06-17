@@ -1,0 +1,333 @@
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.loader {
+  overflow: hidden;
+  width: 100%;
+  height: 4px;
+  display: flex;
+  align-items: center;
+  align-content: center; 
+  justify-content: flex-start;  
+  z-index: 100000;
+}
+
+.loader__element {
+  height: 15px;
+  width: 100%;
+  /*background: green;*/
+
+}
+
+.loader__element:before {
+  content: '';
+  display: block;
+  background-color: #53ff03;
+  height: 9px;
+  width: 0;
+  animation: getWidth 7s ease-in infinite;
+}
+
+@keyframes getWidth {
+  100% { width: 100%; }
+}
+/*-------- loder ---------*/
+.md-progress {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 0.25rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    background-color: #eee;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.primary-color-dark {
+    background-color: #2196f3 !important;
+}
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    line-height: 0;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+    height: 4px !important;
+}
+.md-progress .indeterminate {
+    background-color: #90caf9;
+}
+.md-progress .indeterminate:before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background-color: inherit;
+    -webkit-animation: indeterminate 2.1s cubic-bezier(0.65,0.815,0.735,0.395) infinite;
+    animation: indeterminate 2.1s cubic-bezier(0.65,0.815,0.735,0.395) infinite;
+    will-change: left,right;
+}
+.md-progress .indeterminate:after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background-color: inherit;
+    -webkit-animation: indeterminate 2.1s cubic-bezier(0.165,0.84,0.44,1) infinite;
+    animation: indeterminate 2.1s cubic-bezier(0.165,0.84,0.44,1) infinite;
+    -webkit-animation-delay: 1.15s;
+    animation-delay: 1.15s;
+    will-change: left,right;
+}
+@keyframes indeterminate{0%{right:100%;left:-35%}60%{right:-90%;left:100%}100%{right:-90%;left:100%}}@-webkit-keyframes indeterminate-short{0%{right:100%;left:-200%}60%{right:-8%;left:107%}100%{right:-8%;left:107%}}@keyframes indeterminate-short{0%{right:100%;left:-200%}60%{right:-8%;left:107%}100%{right:-8%;left:107%}}.preloader-wrapper{position:relative;display:inline-block;width:3rem;height:3rem;font-size:0}
+
+/*-------- loder ---------*/
+.outer_add_product {
+	background: #fff;
+}
+.outer_add_product {
+	margin: 18px 0px 18px 18px;
+}
+.produc_image_add_pro {
+	/*border: 1px solid #eee;*/
+    margin: 15px 0px;
+}
+.left-sidebar-content {
+	background: #313a46;
+}
+.sidebar-elements li a {
+	color: #fff !important;
+	font-weight: 600 !important;
+}
+.table_head {
+    background: #f4f4f4;
+    position: sticky;
+    top: 62px;
+    height: 50px;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+.appointment_table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.appointment_table tr td {
+	padding: 12px 7px !important;
+}
+.comman_status {
+	padding: 4px 10px;
+	border-radius: 3px;
+}
+.up_yellow {
+	background: #fff200;
+	color: #2d2d2d;
+}
+.up_green {
+	background: #4cd137;
+	color: #fff;
+}
+.up_red  {
+	background: red;
+	color: #fff;
+}
+.time {
+	max-width: 150px;
+    width: 65px;
+    border: none;
+    background: transparent;
+}
+.not_confirmed {
+	font-size: 0.87rem !important;
+    font-weight: 100 !important;
+}
+.client_details {
+	text-shadow: 1px 1px 2px #fff;
+    box-shadow: 1px 1px 2px #fff inset;
+
+    position: relative;
+    padding: 10px;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #eee;
+    background-clip: border-box;
+    border: 1px solid #aaa;
+    border-radius: 0.25rem;
+}
+.client_details h4 {
+	font-weight: 600;
+	font-size: 1.8rem;
+}
+h6.checkout_lable {
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 0.5rem;
+}
+.amount_area {
+	background: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.new_btn_css {
+	border-color: #aaa;
+    text-shadow: 0 1px 0 #fff;
+    background-image: linear-gradient(#f8f8f8, #d8d8d8);
+    color: #000;
+    background-color: #ddd;
+    background-image: var(--bs-gradient);
+    border-color: #ddd;
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+.btn-new {
+	display: inline-block;
+    font-weight: 400;
+    line-height: 1.15;
+    color: #444;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    /*background-color: rgba(0,0,0,0);
+    border: 1px solid rgba(0,0,0,0);*/
+    padding: 0.375rem 0.75rem;
+    font-size: 0.82rem;
+    border-radius: 0.02rem;
+    -webkit-appearance: button;
+}
+
+.custom_input_clas {
+	padding: 0px 5px !important;
+    height: 28px !important;
+    font-size: 1.1rem !important;
+    font-weight: 500 !important;
+}
+.payment_mode_area h4 {
+	font-size: 1.4rem;
+    font-weight: 400;
+}
+.main_settlement_option {
+	border-radius: 10px;
+	position: relative;
+	padding-top: 10px;
+	/*overflow: hidden;*/
+}
+.settle_in_option {
+    /*transform: translate(10px, -10px);
+    display: inline-block;*/
+    background: #fff;
+    padding: 0px 5px;
+    position: absolute;
+    top: -10px;
+    left: 10px;
+}
+.settle_in_input {
+	border: none;
+    width: 100%;
+    height: 25px;
+    padding: 0px 14px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+.member_subs {
+	background: #712cf9d4;
+    display: inline-block;
+    padding: 2px 20px;
+    border-radius: 5px;
+    color: #fff;
+    text-shadow: 0 0 black;
+}
+.member_subs .bi {
+	border-radius: 50%;
+    background: gold;
+    padding: 1px 3.5px;
+    font-size: 0.9rem;
+}
+.header_coman {
+	padding: 0.1em 1rem;
+    background-color: #bbb;
+    color: #fff;
+    
+    font-weight: normal;
+    text-shadow: 0 1px 0 #777;
+    box-shadow: 1px 1px 15px #999 inset;
+}
+.header_coman h4 {
+	font-size: 1.6em;
+}
+.add_btn_expense {
+	background: #fff;
+}
+.bookings_details {
+	background: #fff;
+	border-radius: 10px;
+	padding: 10px;
+}
+.select_expense {
+	border-radius: 8px !important;
+}
+.select_expense_width {
+	width: 183px !important;
+	max-width: 300px !important;
+}
+.select_expense_w_80 {
+	width: 110px !important;
+	max-width: 200px !important;
+}
+.select_expense_w_70 {
+	width: 100px !important;
+	max-width: 200px !important;
+}
+.select_expense_w_50 {
+	width: 600px !important;
+	max-width: 100px !important;
+}
+.service_background {
+	background: #f4f4f4;
+}
+.service_product {
+	background: #f4f4f4;
+}
+
+.add_services_exp {
+	padding: 10px 1rem;
+} 
+.price_table tr td {
+    padding: 3px 10px !important;
+}
+    
+/*.custom-tooltip + .tooltip > .tooltip-inner
+{
+    text-align: left;
+    max-width: 500px;
+}
+
+// CSS test option #2
+.custom-tooltip ~ .tooltip > .tooltip-inner
+{
+    text-align: left;
+    max-width: 500px;
+}*/
+

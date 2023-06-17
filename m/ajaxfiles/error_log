@@ -1,0 +1,124 @@
+[11-Oct-2022 10:05:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[11-Oct-2022 15:43:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[11-Oct-2022 15:43:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Oct-2022 05:45:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Oct-2022 05:45:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Oct-2022 07:37:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Oct-2022 07:37:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Oct-2022 07:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Oct-2022 07:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[22-Oct-2022 07:15:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[22-Oct-2022 07:15:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[23-Nov-2022 12:50:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[23-Nov-2022 12:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[23-Nov-2022 12:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[30-Nov-2022 08:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[30-Nov-2022 08:53:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[30-Nov-2022 08:54:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[30-Nov-2022 08:54:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[30-Nov-2022 08:54:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[30-Nov-2022 08:54:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[30-Nov-2022 08:54:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[30-Nov-2022 08:54:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[30-Nov-2022 08:54:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[30-Nov-2022 08:54:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[30-Nov-2022 08:54:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[13-Dec-2022 10:29:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:29:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 10:29:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 10:29:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:29:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:29:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 10:50:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:50:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 72
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 6
+[13-Dec-2022 10:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 72
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 6
+[13-Dec-2022 10:56:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 11:05:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 11:05:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[13-Dec-2022 11:05:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[13-Dec-2022 11:05:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[16-Dec-2022 07:45:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[16-Dec-2022 07:45:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[16-Dec-2022 07:45:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[16-Dec-2022 07:45:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[16-Dec-2022 07:45:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[16-Dec-2022 07:46:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[16-Dec-2022 07:46:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[16-Dec-2022 07:46:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[16-Dec-2022 07:46:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[16-Dec-2022 07:46:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[16-Dec-2022 07:46:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[16-Dec-2022 07:46:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[16-Dec-2022 07:46:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[16-Dec-2022 07:46:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[16-Dec-2022 07:46:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[20-Jan-2023 08:26:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[20-Jan-2023 08:26:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[20-Jan-2023 08:26:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[20-Jan-2023 08:26:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[20-Jan-2023 08:26:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[20-Jan-2023 08:26:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[20-Jan-2023 08:26:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[20-Jan-2023 08:26:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[20-Jan-2023 08:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[20-Jan-2023 08:26:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[20-Jan-2023 08:27:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[20-Jan-2023 08:27:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[20-Jan-2023 08:27:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[20-Jan-2023 08:27:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[20-Jan-2023 08:27:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[20-Jan-2023 08:30:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sensejgz_salon1234'@'localhost' (using password: YES) in /home3/sensejgzz/gliss.in/m/includes/config.php on line 3
+[20-Jan-2023 08:30:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 5
+[20-Jan-2023 08:30:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 6
+[20-Jan-2023 08:30:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 8
+[20-Jan-2023 08:30:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 9
+[20-Jan-2023 08:37:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 08:39:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 08:40:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 08:41:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 08:43:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 08:44:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/sensejgzz/gliss.in/m/ajaxfiles/log-in-out.php on line 10
+[20-Jan-2023 09:10:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[20-Jan-2023 09:10:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[20-Jan-2023 09:12:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[20-Jan-2023 09:12:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[20-Jan-2023 09:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[21-Jan-2023 15:17:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Jan-2023 15:17:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Jan-2023 15:17:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Jan-2023 15:17:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Jan-2023 15:18:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Jan-2023 15:18:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Jan-2023 15:18:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Jan-2023 15:18:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Jan-2023 15:18:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[21-Jan-2023 15:18:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/fectch_bookings.php on line 6
+[21-Jan-2023 15:19:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 8
+[21-Jan-2023 15:19:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/sensejgzz/gliss.in/m/ajaxfiles/prduct_fetch_action.php on line 74
+[21-Jan-2023 15:50:34 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:54:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:54:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:58:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:58:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:59:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
+[21-Jan-2023 15:59:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/sensejgzz/gliss.in/m/ajaxfiles/get_ratings.php on line 4
